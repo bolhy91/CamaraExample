@@ -1,5 +1,5 @@
-### Camara Example
+## Camara Example
 
 
 
-## Author: bolhy91@gmail.com
+#### Author: bolhy91@gmail.com
