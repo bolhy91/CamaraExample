@@ -2,4 +2,6 @@
     <string name="app_name">Camara App</string>
     <string name="open">OPEN</string>
     <string name="content_image">Imagen capturada</string>
+    <string name="save">Save</string>
+    <string name="gallery">Gallery</string>
 </resources>
